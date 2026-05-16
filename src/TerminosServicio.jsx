@@ -87,7 +87,7 @@ const sections = [
         <p className="font-medium text-[#1A1A1A] mb-3">Nos comprometemos a:</p>
         <ul className="space-y-2 text-[#444] leading-relaxed mb-5">
           {[
-            "Calcular pérdidas correctamente (motor Pandapower IEEE, precisión ±0.5–2%).",
+            "Calcular pérdidas correctamente (precisión ±0.5–2%).",
             "Encriptar tus datos con AES-256.",
             "Garantizar 99.5% de uptime mensual.",
             "Responder soporte en menos de 48 horas hábiles.",
