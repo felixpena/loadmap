@@ -1345,7 +1345,7 @@ export default function LandingPage() {
         <Solucion />
         <ComoFunciona />
         <Features />
-        <Testimonios />
+
         <FAQ />
         <Contacto />
       </main>
